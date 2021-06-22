@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Chicheng's GitHub stats](https://github-readme-stats-ashy-nu.vercel.app/api?username=TbabmBarry)](https://github.com/TbabmBarry/github-readme-stats)
+[![Chicheng's GitHub stats](https://github-readme-stats-ashy-nu.vercel.app/api?username=TbabmBarry&count_private=true)](https://github.com/TbabmBarry/github-readme-stats)
 <!--
 **TbabmBarry/TbabmBarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
